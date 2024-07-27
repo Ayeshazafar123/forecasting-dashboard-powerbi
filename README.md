@@ -1,6 +1,8 @@
 # Super Store Sales Dashboard - Power BI Project
 
-![Super Store Sales Dashboard](path-to-your-image.png)
+![image](https://github.com/user-attachments/assets/eadbacac-6257-4676-973c-a055e5a03ffa)
+![image](https://github.com/user-attachments/assets/00d90161-3869-4b44-99b3-6421deb59869)
+
 
 ## Overview
 
@@ -42,7 +44,6 @@ The dashboard includes interactive filters to refine data views:
 
 - `Super_Store_Sales_Dashboard.pbix`: The main Power BI file containing all pages and visualizations.
 - `README.md`: Project description and usage instructions.
-- `images/`: Directory containing images used in the project (e.g., screenshots of the dashboard).
 
 ## Contribution
 
